@@ -22,7 +22,7 @@ The project analyzes hiring trends, salary patterns, required skills, remote wor
 
 **Name:** Global AI Job Market Trends & Salary Insights 2025
 
-**Source:** [Kaggle – Global AI Job Market Trends & Salary Insights 2025](https://www.kaggle.com/datasets/bismasajjad/global-ai-job-market-and-salary-trends-2025)
+**Source:** [Kaggle – Global AI Job Market Trends & Salary Trends 2025](https://www.kaggle.com/datasets/bismasajjad/global-ai-job-market-and-salary-trends-2025)
 
 ### Dataset Information
 
