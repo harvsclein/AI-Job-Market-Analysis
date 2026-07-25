@@ -20,20 +20,40 @@ The project analyzes hiring trends, salary patterns, required skills, remote wor
 
 ## Dataset
 
-**Source:** Kaggle - AI Job Market Dataset
+**Name:** Global AI Job Market Trends & Salary Insights 2025
 
-The dataset contains information about AI-related job postings, including:
+**Source:** Kaggle  
+https://www.kaggle.com/datasets/pratyushpuri/global-ai-job-market-trend-2025
 
-- Job Titles
+### Dataset Information
+
+- **Rows:** 15,000
+- **Columns:** 19
+- **Format:** CSV
+
+### Features
+
+The dataset contains AI-related job postings from multiple countries and includes information such as:
+
+- Job Title
+- Salary (USD)
+- Experience Level
+- Employment Type
 - Company Location
 - Company Size
-- Employment Type
-- Experience Level
-- Education Requirement
-- Salary
 - Remote Work Ratio
 - Required Skills
+- Education Required
+- Years of Experience
+- Industry
 - Posting Date
+- Application Deadline
+- Company Name
+- Benefits Score
+- Employee Residence
+- Salary Currency
+- Job Description Length
+- Job ID
 
 ---
 
