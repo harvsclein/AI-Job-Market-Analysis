@@ -170,8 +170,8 @@ AI-Job-Market-Analysis/
 │
 ├── images/
 │   ├── dashboard.png
+│   ├── dashboard_background.png
 │   └── python_analysis.png
-│
 └── README.md
 ```
 
