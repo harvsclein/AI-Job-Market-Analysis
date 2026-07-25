@@ -86,7 +86,7 @@ Performed data preprocessing using Pandas, including:
 
 ### 2. Exploratory Data Analysis (EDA)
 
-The following business questions were answered:
+The following questions were answered:
 
 - How has the AI job market changed over time?
 - Which AI job roles are most in demand?
@@ -138,6 +138,18 @@ Built an interactive dashboard featuring:
 - Remote and hybrid work remain common across AI roles.
 - Bachelor's degrees appear most frequently in job requirements.
 - Hiring demand is relatively balanced across company sizes.
+
+---
+
+## Recommendations
+
+Based on the analysis, the following observations may be useful for aspiring AI professionals:
+
+- Develop strong proficiency in high-demand skills such as Python and SQL.
+- Gain practical experience through projects to qualify for mid-level and senior AI roles.
+- Consider remote opportunities, as remote and hybrid work remain common in the AI industry.
+- Pursue at least a bachelor's degree, as it is the most frequently requested educational qualification.
+- Continuously monitor AI hiring trends and emerging technologies to stay competitive in the job market.
 
 ---
 
@@ -195,6 +207,10 @@ AI-Job-Market-Analysis/
 ---
 
 ## Python Analysis
+The interactive dashboard presents the key findings from this project. The complete data cleaning process, feature engineering, exploratory data analysis (EDA), visualizations, and detailed explanations of each insight are documented in the Jupyter Notebook.
+
+📓 **View the complete analysis:**  
+`notebooks/AI_Job_Market_Analysis.ipynb`
 
 ![Python EDA](images/python_analysis.png)
 
