@@ -190,32 +190,13 @@ AI-Job-Market-Analysis/
 
 ## Dashboard Preview
 
-> *Add your dashboard screenshot here.*
-
-```
-images/dashboard.png
-```
+![Dashboard](images/dashboard.png)
 
 ---
 
 ## Python Analysis
 
-> *Add screenshots from your Jupyter Notebook here.*
-
-```
-images/python_analysis.png
-```
+![Python EDA](images/python_analysis.png)
 
 ---
 
-## Learning Outcomes
-
-This project strengthened my understanding of the complete data analytics workflow, from raw data preparation and exploratory analysis to building an interactive business intelligence dashboard. It demonstrates how Python and Power BI can be combined to transform raw data into actionable insights through an end-to-end analytics process.
-
----
-
-## Author
-
-**Harvey Alvaran**
-
-Aspiring Data Analyst | Data Engineer | Data Scientist
