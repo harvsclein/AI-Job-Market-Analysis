@@ -1,8 +1,16 @@
 # AI Job Market Analysis | Python + Power BI
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+
 ## Project Overview
 
-This end-to-end data analytics project explores the global AI job market using Python for data preparation and exploratory data analysis (EDA), followed by an interactive Power BI dashboard for business intelligence and visualization.
+This end-to-end data analytics project explores the global AI job market using Python for data preparation and exploratory data analysis (EDA), followed by an interactive Power BI dashboard that communicates the key insights through interactive visualizations.
 
 The project analyzes hiring trends, salary patterns, required skills, remote work adoption, and career planning insights to understand the current demand for AI professionals.
 
