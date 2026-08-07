@@ -167,6 +167,21 @@ Based on the analysis, the following observations may be useful for aspiring AI 
 
 ---
 
+## Files Included
+
+| File | Description |
+|------|-------------|
+| `AI_Job_Market_Analysis.ipynb` | Jupyter Notebook containing the complete data cleaning, feature engineering, exploratory data analysis (EDA), and data visualizations created using Python. |
+| `ai_job_market_cleaned.csv` | Cleaned dataset exported from Python and used as the primary data source for the Power BI dashboard. |
+| `top_skills.csv` | Processed dataset containing the frequency of required AI skills used for dashboard visualizations. |
+| `AI_Job_Market_Dashboard.pbix` | Interactive Power BI dashboard featuring KPIs, charts, slicers, and DAX measures that summarize the analysis. |
+| `dashboard.png` | Screenshot preview of the completed Power BI dashboard displayed in this README. |
+| `dashboard_background.png` | Custom PowerPoint-designed background used in the Power BI dashboard. |
+| `python_analysis.png` | Preview image of the Python exploratory data analysis notebook. |
+| `README.md` | Project documentation describing the project overview, workflow, tools, findings, and repository structure. |
+
+---
+
 ## Repository Structure
 
 ```
